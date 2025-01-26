@@ -30,6 +30,6 @@ This extension adds my live server to zed
 
 Shortcut: g + .
 
-  Go to your HTML file.
-  Use a secondary click (for me, it’s a two-finger push; for you, it might be a right-click).
-  Click on Code Action.
+- Go to your HTML file.
+- Use a secondary click (for me, it’s a two-finger push; for you, it might be a right-click).
+- Click on Code Action.
